@@ -1,0 +1,5 @@
+{
+  "name": "Webzet.store Backend",
+  "description": "A production-ready e-commerce backend for Webzet.store featuring JWT auth, Prisma ORM, Razorpay integration, and Multer file uploads.",
+  "requestFramePermissions": []
+}
